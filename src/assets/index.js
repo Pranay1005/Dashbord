@@ -34,7 +34,7 @@ import drone from "./drone.jpeg";
 import quest from"./quest.jpg";
 import dashboard from "./dashboard_start.png"
 import js from "./js.png"
-import wiki from './wiki.jpg'; 
+import wiki from './wiki_image.jpg'; 
 import port from './port_image.png';
 
 
