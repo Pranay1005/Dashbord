@@ -1,6 +1,7 @@
 import {
     mobile,
     backend,
+    wiki,
     creator,
     web,
     javascript,
@@ -23,11 +24,13 @@ import {
     shopify,
     carrent,
     eda,
+    port,
     jobit,
     dashboard,
     tripguide,
     threejs,
     js,
+
   } from "../assets";
   
   export const navLinks = [
@@ -212,7 +215,7 @@ import {
         { name: "Ngrok", color: "pink-text-gradient" },
         { name: "PiWikiBot", color: "yellow-text-gradient" },
       ],
-      image: "src/assets/Wiki.jpg",
+      image: wiki,
       source_code_link: "https://github.com/Pranay1005/Wiki-Chatbot-Extension-Indic-Languages-",
     },
     
@@ -325,7 +328,7 @@ import {
 
         },
       ],
-      image: "src/assets/Port.png",
+      image: port,
       source_code_link: "https://github.com/Pranay1005/Dashbord",
     },
     {
