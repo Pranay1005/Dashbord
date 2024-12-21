@@ -326,7 +326,7 @@ import {
         },
       ],
       image: "src/assets/Port.png",
-      source_code_link: "https://github.com/Pranay1005/MY-PORTFOLIO",
+      source_code_link: "https://github.com/Pranay1005/Dashbord",
     },
     {
       name: "Real Estate Management System",
