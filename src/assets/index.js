@@ -36,6 +36,8 @@ import dashboard from "./dashboard_start.png"
 import js from "./js.png"
 import wiki from './wiki.jpg'; 
 import port from './port.png';
+import wiki from './wiki.jpg'; 
+import port from './port.png';
 
 export {
   logo,

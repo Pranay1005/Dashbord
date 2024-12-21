@@ -302,29 +302,29 @@ import {
           name:"Arduino",
           color:"blue-text-gradient",
 
-        },
-      ],
-      image: drone,
-      source_code_link: "https://github.com/Pranay1005/Icarus",
-    },    {
-      name: "My Dashboard",
-      description: "My dashboard to keep track of all my projects in a visually appleasing manner. The website is deployed using Vercel",
-      tags: [
-        {
-          name: "HTML",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "green-text-gradient",
-        },
-        {
-          name: "ThreeJs",
-          color: "pink-text-gradient",
-        },
-        {
-          name:"Tailwind CSS",
-          color:"blue-text-gradient",
+      },
+    ],
+    image: drone,
+    source_code_link: "https://github.com/Pranay1005/Icarus",
+  },    {
+    name: "My Dashboard",
+    description: "My dashboard to keep track of all my projects in a visually appleasing manner. The website is deployed using Vercel",
+    tags: [
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "ThreeJs",
+        color: "pink-text-gradient",
+      },
+      {
+        name:"Tailwind CSS",
+        color:"blue-text-gradient",
 
         },
       ],
@@ -352,20 +352,19 @@ import {
           name:"NodeJs",
           color:"green-text-gradient"
 
-        }
-      ],
-      image: carrent,
-      source_code_link: "https://github.com/akhil99558/Mern_Staxk_Pro",
-    },
-    {
-      name: "Coming Soon",
-      description:"",
-      tags: [],
-      image: quest,
-      source_code_link: "",
+      }
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/akhil99558/Mern_Staxk_Pro",
+  },
+  {
+    name: "Coming Soon",
+    description:"",
+    tags: [],
+    image: quest,
+    source_code_link: "",
 
-    }
-  ];
-  
-  export { services, technologies, experiences, testimonials, projects };
-  
+  }
+];
+
+export { services, technologies, experiences, testimonials, projects };
